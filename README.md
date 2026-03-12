@@ -1,0 +1,4 @@
+# About the project
+This project explores unsupervised learning techniques to discover hidden patterns in a dataset. The workflow includes preprocessing the dataset, identifying the optimal number of clusters using the Elbow Method, applying K-Means clustering to segment the data, and visualizing the resulting clusters using t-SNE for dimensionality reduction.
+The goal of the project is to understand how data points naturally group together without predefined labels and to visualize those groups in a two-dimensional space. K-Means is used to divide the dataset into meaningful segments based on feature similarity, while t-SNE helps transform high-dimensional data into a form that can be easily visualized and interpreted.
+This project demonstrates key concepts in unsupervised machine learning, clustering analysis, and data visualization using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
